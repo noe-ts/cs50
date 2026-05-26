@@ -1,0 +1,2 @@
+# To ignore binaries, we don't ignore file with extensions
+!*.*
